@@ -10,5 +10,10 @@ public class MainPageController {
 	public String viewMainPage() {
 		return "main-page";
 	}
+	
+	@RequestMapping("/news")
+	public String viewNewsPage() {
+		return "news-page";
+	}
 		
 }

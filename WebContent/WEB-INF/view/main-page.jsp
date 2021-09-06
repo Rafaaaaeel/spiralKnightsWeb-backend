@@ -27,7 +27,7 @@
             <form class="container" action="POST">
                 <li><a class="cool_link" href="">Register</a></li>
                 <li><a class="cool_link"  href="">Login</a></li>
-                <li><a class="cool_link"  href="#links_news">News</a></li>
+                <li><a class="cool_link"  href="/spiral-knights-webs/news">News</a></li>
                 <li><a class="cool_link" href="#links_about">About</a></li>
             </form>
             <img id="play_now" src="${pageContext.request.contextPath}/resources/img/playnow.png" alt="Play now"">
@@ -56,7 +56,7 @@
 
 <section class="news_content">
     
-    <a href="#"><span id="news_tittle">News -</span></a>
+    <a href="/spiral-knights-webs/news"><span id="news_tittle">News -</span></a>
     
     <button class="new_1">
         <a target="_blank" href="https://wiki.spiralknights.com/Solstice_Prize_Box_Promotion_December_2020"><img class="img1"   src="${pageContext.request.contextPath}/resources/img/news_img/new1.jpg" alt="News" ></a>
