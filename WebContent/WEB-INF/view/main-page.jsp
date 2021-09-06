@@ -24,8 +24,8 @@
                 <option value="de">Deutsch</option>
                 <option value="fr">Français</option>
             </select>
-            <form class="container" action="POST">
-                <li><a class="cool_link" href="">Register</a></li>
+            <form class="container">
+                <li><a class="cool_link" href="/spiral-knights-webs/register/registerForm">Register</a></li>
                 <li><a class="cool_link"  href="">Login</a></li>
                 <li><a class="cool_link"  href="/spiral-knights-webs/news">News</a></li>
                 <li><a class="cool_link" href="#links_about">About</a></li>

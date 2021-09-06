@@ -112,7 +112,7 @@ form,li, a{
     z-index: 1;
     left: 35%;
     top: 52%;
-    transition: 0.2s ease-in-out;
+    transition: 0.2s all cubic-bezier(0, 0.74, 0.58, 1);
 }
 .video_logo_and_button:hover{
     transform: scale(1.2);
@@ -139,7 +139,7 @@ form,li, a{
     cursor: pointer;
     outline: none;
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.733);
-    transition: 0.2s all ease-in-out;
+    transition: 0.2s all cubic-bezier(0, 0.74, 0.58, 1);
 }
 .video_logo_and_button input:hover{
     transform: scale(1.2);
@@ -266,7 +266,7 @@ form,li, a{
     position: relative;
     left: -60px;
     top: -2px;
-    transition: 0.2s all ease-in-out;
+    transition: 0.2s all cubic-bezier(0, 0.74, 0.58, 1);
 }
 
 .news_content .img1:hover , .img2:hover, .img3:hover, .img4:hover, .img5:hover, .img6:hover{
@@ -302,7 +302,7 @@ form,li, a{
     position: relative;
     left: -60px;
     top: -2px;
-    transition: 0.2s all ease-in-out;
+    transition: 0.2s all cubic-bezier(0, 0.74, 0.58, 1);
 }
 
 .news_content .p2{
@@ -335,7 +335,7 @@ form,li, a{
     position: relative;
     left: -60px;
     top: -2px;
-    transition: 0.2s all ease-in-out;
+    transition: 0.2s all cubic-bezier(0, 0.74, 0.58, 1);
 }
 
 .news_content .p3{
@@ -355,7 +355,7 @@ form,li, a{
     position: relative;
     left: -58px;
     top: -2px;
-    transition: 0.2s all ease-in-out;
+    transition: 0.2s all cubic-bezier(0, 0.74, 0.58, 1);
 }
 
 .news_content .new_4{
@@ -397,7 +397,7 @@ form,li, a{
     position: relative;
     left: -58px;
     top: -2px;
-    transition: 0.2s all ease-in-out;
+    transition: 0.2s all cubic-bezier(0, 0.74, 0.58, 1);
 }
 
 .news_content .p5{
@@ -471,7 +471,7 @@ form,li, a{
     border-radius: 2px;
     position: relative;
     right: 60px;
-    transition: 0.2s all ease-in-out;
+    transition: 0.2s all cubic-bezier(0, 0.74, 0.58, 1);
     overflow: hidden;
     
 }
