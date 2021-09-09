@@ -1,6 +1,6 @@
 package com.spiralKnights;
 
-public class User {
+public class User extends Page{
 	private String userName;
 	private String password;
 	private String confirmPassword;

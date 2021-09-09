@@ -1,12 +1,25 @@
 
 
 
-
 /*form inputs*/
-.form_register{
-	list-style: none;
+.form_container{
+	background-color:orange;
+	
 }
+.form_container h1{
+	font-family: 'Staatliches', cursive;
+}
+ul{
+	list-style: none;
+	margin-top:30px;
+}
+
+li{
+	margin-top:10px;
+}
+
 .form_register_submit{
+	margin-top:30px;
 	width: 130px;
 	height: 40px;
 	border: none;
